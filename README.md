@@ -18,7 +18,7 @@
 
 ---
 
-PDFresum is an intelligent PDF summarizer that transforms long documents into short, clear texts, highlighting the most important points. Here's how it works:
+🤖 PDFresum is an intelligent PDF summarizer that transforms long documents into short, clear texts, highlighting the most important points. Here's how it works:
 
 - The user uploads a PDF file.
 
@@ -33,4 +33,5 @@ PDFresum is designed to save time and quickly deliver the essence of any PDF, wi
 ---
 
 # 🎥 Video demonstração da aplicação / Video demonstration of the application
+
 
